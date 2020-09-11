@@ -70,7 +70,7 @@ Legends can be "printed" on keycaps using a couple of different methods
     - The least durable and cheapest way to make legends. This is really common on cheap commerical boards and keycaps.
 
 ### Printed Circuit Board
-Most keyboards have a printed circuit board, or PCB, that the switches are soldered to. This provides the circuitry to connect the switches to the microcontroller. It is possible to build a keyboard without one though that means, you'll be soldering wires together.
+Most keyboards have a printed circuit board, or PCB, that the switches are soldered to. This provides the circuitry to connect the switches to the microcontroller. It is possible to build a keyboard without one though that means you'll be soldering wires together.
 
 ### Plate 
 This is the part that supports your switches. It's not strictly necessary, but helps make your board feel sturdier.
