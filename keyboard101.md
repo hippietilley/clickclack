@@ -88,6 +88,7 @@ Every keyboard needs firmware. If you built your own keyboard, this is often QMK
 - r/mechanicalkeyboards on Reddit
 - TaeKeyboards on Youtube
 - Taeha Types on Youtube
+- matt30.com is a blog run by Matt3o. He designs keycap sets and has a lot of good tutorials on keyboard building
 - QMK Firmware can be found at qmk.fm/
 - mechanicalkeyboards.com is a regional keyboard retailer
 - DIY keyboard parts can be found at keeb.io, novelkeys.com, and if you are willing to wait forever kbdfans and Drop
