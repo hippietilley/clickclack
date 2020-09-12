@@ -78,6 +78,9 @@ This is the part that supports your switches. It's not strictly necessary, but h
 ### Case
 This part encloses the bottom and sides of the keyboard to protect the PCB from dust and such.
 
+### Firmware
+Every keyboard needs firmware. If you built your own keyboard, this is often QMK firmware. QMK is opensource and *very* well documented. 
+
 ## Links
 - keyboard.university
 - input.club
@@ -85,3 +88,6 @@ This part encloses the bottom and sides of the keyboard to protect the PCB from 
 - r/mechanicalkeyboards on Reddit
 - TaeKeyboards on Youtube
 - Taeha Types on Youtube
+- QMK Firmware can be found at qmk.fm/
+- mechanicalkeyboards.com is a regional keyboard retailer
+- DIY keyboard parts can be found at keeb.io, novelkeys.com, and if you are willing to wait forever kbdfans and Drop
